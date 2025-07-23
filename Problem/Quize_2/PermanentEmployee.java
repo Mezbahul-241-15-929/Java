@@ -1,4 +1,4 @@
-package Problem.Queize_2;
+package Problem.Quize_2;
 
 public class PermanentEmployee extends Employee{
     double salary;
