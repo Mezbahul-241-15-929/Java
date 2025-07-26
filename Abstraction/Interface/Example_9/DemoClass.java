@@ -1,4 +1,4 @@
-package Abstraction.Abstract_Class.Interface.Example_9;
+package Abstraction.Interface.Example_9;
 
 public class DemoClass implements FirstInterface,SecondInterface{
     public void MyMethod1(){

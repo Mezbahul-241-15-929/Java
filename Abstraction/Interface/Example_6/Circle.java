@@ -1,4 +1,4 @@
-package Abstraction.Abstract_Class.Interface.Example_6;
+package Abstraction.Interface.Example_6;
 
 public class Circle implements Drawing{
     public void draw(){

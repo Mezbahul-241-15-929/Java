@@ -1,4 +1,4 @@
-package Abstraction.Abstract_Class.Interface.Example_7;
+package Abstraction.Interface.Example_7;
 
 public class TestInterface {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Abstraction.Abstract_Class.Interface.Example_8;
+package Abstraction.Interface.Example_8;
 
 public class DVDPlayer implements Player {
         public void play() {
